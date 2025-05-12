@@ -1,4 +1,4 @@
-package com.eeag.secondapp;
+package com.avm.secondapp;
 
 import android.os.Bundle;
 
