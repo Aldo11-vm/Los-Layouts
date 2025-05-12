@@ -1,4 +1,4 @@
-package com.example.application2;
+package com.avm.application2;
 
 import android.os.Bundle;
 
